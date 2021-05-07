@@ -30,6 +30,4 @@ Cri
 
 <img src="https://images.velog.io/images/panther222128/post/fe924852-a651-4b44-8be8-b7656246a446/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-05-07%20at%2011.16.51.png" width="300">
 
-![Simulator Screen Shot - iPhone 12 Pro - 2021-05-07 at 14 50 22](https://user-images.githubusercontent.com/41679458/117403703-91e05580-af43-11eb-998f-b2b620e04ad5.png)
-
-
+<img src = "https://user-images.githubusercontent.com/41679458/117403703-91e05580-af43-11eb-998f-b2b620e04ad5.png" width = "300">
