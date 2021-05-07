@@ -28,6 +28,8 @@ Cri
 
 - 오프라인에서 GamePlayView 내 'Strike, Ball, Out', 게임 진행상황 TableView, 이닝 Label 구현
 
+### GameListView
 <img src="https://images.velog.io/images/panther222128/post/fe924852-a651-4b44-8be8-b7656246a446/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-05-07%20at%2011.16.51.png" width="300">
 
+### GamePlayView
 <img src = "https://user-images.githubusercontent.com/41679458/117403703-91e05580-af43-11eb-998f-b2b620e04ad5.png" width = "300">
