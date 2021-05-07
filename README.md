@@ -1,10 +1,10 @@
 ## Team-08
 
-#### Backend
+#### 🛠 Backend
 
 Dong
 
-#### iOS
+#### 📱 iOS
 
 Dumba
 Cri
