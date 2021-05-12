@@ -13,6 +13,11 @@ class BatterView: UIView {
         return CGPoint(x: bounds.midX, y: bounds.midY)
     }
 
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        self.backgroundColor = .clear
+    }
+    
     required init?(coder: NSCoder) {
         super.init(coder: coder)
         self.backgroundColor = .clear
