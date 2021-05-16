@@ -123,6 +123,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 
 진행방식: Navigator Dumba, Driver Cri, 즉 짝 프로그래밍으로 진행하되, 어느 정도의 유연함을 두고 의논하면서 진행
 
+
 - API 내용 협의 필요
 - 세 번째 화면 구현
 - API에 따른 Business Logic 구현
