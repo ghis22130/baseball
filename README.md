@@ -21,6 +21,7 @@ Cri
 
 https://github.com/d-h-k/baseball/wiki/API-사용법
 
+
 ### 테크니컬 첼린지 포인트
 #### Oauth 구현하기
   - github 페이지와 ouath인증 진행하기
@@ -63,6 +64,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 - test (adding missing tests, refactoring tests; no production code change)
 - chore (updating grunt tasks etc; no production code change)
 
+
 #### 앞으로 더 구현할 기능
 ##### 데이터 입력받기 기능
   - ios / 데이터 입력받기 : 볼 , 스트라이크, 아웃, @@@@
@@ -82,6 +84,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
   - 이부분 추가해야되요!!
     <br><br><br>
 ### ios 사이드 요청사항 반영할꺼
+
 ##### 1 최신순으로 맨 위에 올라오게 >> 지금 경기상황
 - 경기상황
 ##### 2 스코어 화면 
@@ -93,6 +96,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 ---------
 
 ## iOS (Dumba, Cri)
+
 
 
 
