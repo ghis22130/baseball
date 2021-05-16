@@ -23,6 +23,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 
 
 
+
 ### 테크니컬 첼린지 포인트
 #### Oauth 구현하기
   - github 페이지와 ouath인증 진행하기
@@ -64,6 +65,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 - refactor (refactoring production code, eg. renaming a variable)
 - test (adding missing tests, refactoring tests; no production code change)
 - chore (updating grunt tasks etc; no production code change)
+
 
 
 #### 앞으로 더 구현할 기능
@@ -108,6 +110,7 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 
 - 깃 전략 수립
 - 깃 사용 시 Issue, Milestone, Commit Message 규칙 적극 활용 
+
 
 - 수업 이후 아키텍쳐, 금주 진행할 사항(GameListView, GamePlayView) 등 프로젝트 진행에 대한 전반적 내용 결정
 
