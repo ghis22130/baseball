@@ -6,8 +6,10 @@ Dong
 
 #### 📱 iOS
 
+
 Dumba
 Cri
+
 
 ## Team Rule
 
@@ -91,10 +93,12 @@ https://github.com/d-h-k/baseball/wiki/API-사용법
 
 ## iOS (Dumba, Cri)
 
+
 2021.05.03 월요일
 
 - 깃 전략 수립
 - 깃 사용 시 Issue, Milestone, Commit Message 규칙 적극 활용 
+
 - 수업 이후 아키텍쳐, 금주 진행할 사항(GameListView, GamePlayView) 등 프로젝트 진행에 대한 전반적 내용 결정
 
 2021.05.04 화요일
